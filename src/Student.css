@@ -1,0 +1,17 @@
+.student {
+    text-align: left;
+    margin-left: 50px;
+}
+.name{
+    font-weight: bolder;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.bullets{
+    font-weight: bold;
+}
+
+.facts {
+    margin-left: 25px;
+}
